@@ -1,0 +1,59 @@
+[
+  {
+    "time": "Period 1",
+    "time_range": "8:30-9:30",
+    "days": [
+      { "subject": "Math", "teacher": "Mr. Smith", "color": "green" },
+      { "subject": "Art", "teacher": "Ms. Jones", "color": "purple" },
+      { "subject": "Math", "teacher": "Mr. Smith", "color": "green" },
+      { "subject": "Science", "teacher": "Mr. Anderson", "color": "yellow" },
+      { "subject": "Math", "teacher": "Mr. Smith", "color": "green" }
+    ]
+  },
+  {
+    "time": "Period 2",
+    "time_range": "9:30-10:30",
+    "days": [
+      { "subject": "English", "teacher": "Ms. Wallace", "color": "blue" },
+      { "subject": "Science", "teacher": "Mr. Anderson", "color": "yellow" },
+      { "subject": "History", "teacher": "Ms. Davis", "color": "orange", "conflict": true },
+      { "subject": "English", "teacher": "Ms. Wallace", "color": "blue" },
+      { "subject": "Science", "teacher": "Mr. Anderson", "color": "yellow" }
+    ],
+    "conflict_row": true
+  },
+  {
+    "time": "Period 3",
+    "time_range": "10:30-11:30",
+    "days": [
+      { "subject": "Physics G11", "teacher": "Mr. Anderson", "color": "yellow", "conflict": true },
+      { "subject": "Math", "teacher": "Mr. Smith", "color": "green" },
+      { "subject": "Science G9", "teacher": "Mr. Anderson", "color": "yellow", "conflict": true },
+      { "subject": "History", "teacher": "Ms. Davis", "color": "orange" },
+      { "subject": "English", "teacher": "Ms. Wallace", "color": "blue" }
+    ],
+    "conflict_row": true
+  },
+  {
+    "time": "Period 4",
+    "time_range": "11:30-12:30",
+    "days": [
+      { "subject": "Lunch", "teacher": "", "color": "gray", "lunch": true },
+      { "subject": "Lunch", "teacher": "", "color": "gray", "lunch": true },
+      { "subject": "Lunch", "teacher": "", "color": "gray", "lunch": true },
+      { "subject": "Lunch", "teacher": "", "color": "gray", "lunch": true },
+      { "subject": "Lunch", "teacher": "", "color": "gray", "lunch": true }
+    ]
+  },
+  {
+    "time": "Period 5",
+    "time_range": "12:30-1:30",
+    "days": [
+      { "subject": "History", "teacher": "Ms. Davis", "color": "orange" },
+      { "subject": "English", "teacher": "Ms. Wallace", "color": "blue" },
+      { "subject": "English", "teacher": "Ms. Wallace", "color": "blue" },
+      { "subject": "Math", "teacher": "Mr. Smith", "color": "green" },
+      { "subject": "Art", "teacher": "Ms. Jones", "color": "purple" }
+    ]
+  }
+]
