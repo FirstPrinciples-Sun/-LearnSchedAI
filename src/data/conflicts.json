@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Double Booking",
+    "description": "Mr. Anderson is scheduled for two classes at the same time: Physics G11 and Science G9 in Period 3."
+  },
+  {
+    "title": "Room Capacity Exceeded",
+    "description": "Ms. Davis's History G9 class (35 students) is scheduled in Room 105, which only has a capacity of 30."
+  }
+]
